@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Pedr0-Henrique
-- 👀 I’m interested in html,css and JavaScript ...
-- 🌱 I’m currently learning JavaScript  ...
+
 
 
 <!---
