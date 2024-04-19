@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </div><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0-Henrique&layout=compact)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedr0-Henrique&repo=Pedro-Henrique&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Pedr0-Henrique/Pedro-Henrique)
+
 
 
 ## Objetivos
