@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
  ### Desenvolvedor
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-9a6369288/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-a18010321/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://myportifolio-1.netlify.app/) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedr0-Henrique&show_icons=true&theme=radical)
 
