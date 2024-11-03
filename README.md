@@ -37,13 +37,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+### 
 
-###
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gabrielsilva17/](https://www.linkedin.com/in/pedro-henrique-6a22b1324/))
+[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)]([https://my-profile-7.netlify.app/](https://myportifolio-1.netlify.app/))<br>
 
-<img src="https://raw.githubusercontent.com/Pedr0-Henrique/Pedr0-Henrique/output/snake.svg" alt="Snake animation" />
 
-###
+
+
