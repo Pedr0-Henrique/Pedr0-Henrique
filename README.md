@@ -40,7 +40,7 @@
 ### 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-6a22b1324/)
-[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://myportifolio-1.netlify.app/)<br>
+[![Website](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://pedro-dev1.netlify.app/)<br>
 
 
 
