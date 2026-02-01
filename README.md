@@ -1,31 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Olá! Eu sou o Pedro Henrique</h1>
 
 ###
 
-<p align="left">My name is Pedro henrique and I'm a Desenvolvedor fullstack</p>
+<p align="left"></p>
 
 ###
 
+<h2 align="left">Sobre Mim <br><br>💻 Desenvolvedor Full Stack Júnior, apaixonado por tecnologia e por transformar ideias em soluções reais através do código.</h2>
+
+###
+
+<p align="left">Atualmente estou focado em evoluir minhas habilidades tanto no back-end quanto no front-end, seguindo boas práticas, código limpo e sempre buscando aprender algo novo.<br><br>
+
+🎯 Objetivo<br>Crescer como desenvolvedor, ganhar experiência no mercado e contribuir com projetos que façam a diferença.</p>
+
+###
 <h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 ###
